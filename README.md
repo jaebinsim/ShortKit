@@ -18,7 +18,7 @@ It aims to make “precise location-based automation” (e.g., approaching your 
   <img src="docs/images/screenshot-2.png" width="45%" alt="ShortKit Screenshot 2" />
 </p>
 
-> 스크린샷에 표시된 UUID/Major/Minor 및 자동화 이름은 데모용 더미 데이터입니다.
+> The UUID/Major/Minor values and automation names shown in the screenshots are demo-only dummy data.
 
 ---
 
